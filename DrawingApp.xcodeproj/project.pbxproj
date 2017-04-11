@@ -12,6 +12,8 @@
 		CB4D82C31E9BDF21004C9790 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB4D82C11E9BDF21004C9790 /* Main.storyboard */; };
 		CB4D82C51E9BDF21004C9790 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB4D82C41E9BDF21004C9790 /* Assets.xcassets */; };
 		CB4D82C81E9BDF21004C9790 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB4D82C61E9BDF21004C9790 /* LaunchScreen.storyboard */; };
+		CB4D82D01E9BDFAD004C9790 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4D82CF1E9BDFAD004C9790 /* DrawingView.swift */; };
+		CB4D82D21E9C5BA7004C9790 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB4D82D11E9C5BA7004C9790 /* Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		CB4D82C41E9BDF21004C9790 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB4D82C71E9BDF21004C9790 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB4D82C91E9BDF21004C9790 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB4D82CF1E9BDFAD004C9790 /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
+		CB4D82D11E9C5BA7004C9790 /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				CB4D82BD1E9BDF21004C9790 /* AppDelegate.swift */,
 				CB4D82BF1E9BDF21004C9790 /* ViewController.swift */,
+				CB4D82CF1E9BDFAD004C9790 /* DrawingView.swift */,
+				CB4D82D11E9C5BA7004C9790 /* Colors.swift */,
 				CB4D82C11E9BDF21004C9790 /* Main.storyboard */,
 				CB4D82C41E9BDF21004C9790 /* Assets.xcassets */,
 				CB4D82C61E9BDF21004C9790 /* LaunchScreen.storyboard */,
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB4D82D01E9BDFAD004C9790 /* DrawingView.swift in Sources */,
+				CB4D82D21E9C5BA7004C9790 /* Colors.swift in Sources */,
 				CB4D82C01E9BDF21004C9790 /* ViewController.swift in Sources */,
 				CB4D82BE1E9BDF21004C9790 /* AppDelegate.swift in Sources */,
 			);
@@ -304,6 +312,7 @@
 				CB4D82CE1E9BDF21004C9790 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
