@@ -3,4 +3,4 @@ Simple drawing application demonstrating the use of CoalescedTouches and UIBezie
 
 Demonstration below.
 
-<a href="https://imgflip.com/gif/1yrh71"><img src="https://i.imgflip.com/1yrh71.gif" title="made at imgflip.com"/></a>
+![drawinggif](https://user-images.githubusercontent.com/27150848/37169877-31733bb4-22d7-11e8-8d94-0850cdda3b5d.gif)
